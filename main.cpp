@@ -2,7 +2,7 @@
 #include<chrono> // for time
 #include<time.h> // for changin seed
 #include<cstdlib> // for rng
-
+//tial
 //declaring the functions beforehand 
 void mergesort(int* arr,int size);
 void merge(int* arr,int* left,int* right, int leftsize,int rightsize);
